@@ -31,3 +31,6 @@ git diff --name-only
 
 git checkout Readme.md(unmodified)
 git reset HEAD Readme.md(state)
+git reset --soft(commit)
+git reset --mixed(commit)
+git reset --hard(commit)
