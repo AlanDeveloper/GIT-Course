@@ -13,3 +13,9 @@ git init
 git status
 git add .
 git commit -m "commit"
+
+#Git log
+
+git log
+git log --decorate
+git log --author="Alan"
