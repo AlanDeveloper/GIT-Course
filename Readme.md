@@ -14,8 +14,15 @@ git status
 git add .
 git commit -m "commit"
 
-#Git log
+#Controle de versão
 
 git log
 git log --decorate
 git log --author="Alan"
+git shortlog
+git log --graph
+
+#Visualizando diferenças antes do commit
+
+git diff
+git diff --name-only
