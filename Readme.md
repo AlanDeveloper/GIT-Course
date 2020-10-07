@@ -26,3 +26,8 @@ git log --graph
 
 git diff
 git diff --name-only
+
+#Voltando para versão
+
+git checkout Readme.md(unmodified)
+git reset HEAD Readme.md(state)
