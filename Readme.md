@@ -31,6 +31,13 @@ git diff --name-only
 
 git checkout Readme.md(unmodified)
 git reset HEAD Readme.md(state)
-git reset --soft(commit)
-git reset --mixed(commit)
-git reset --hard(commit)
+git reset --soft(commit) number-commit
+git reset --mixed(commit) number-commit
+git reset --hard(commit) number-commit
+
+#Repositório remoto
+
+- Criar chave ssh e a seguir:
+
+git remote add origin link_do_repositorio
+git push -u origin master
