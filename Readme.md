@@ -1,3 +1,8 @@
+# Git e Github para iniciantes
+
+Curso Udemy - Instrutor : Willian Justen de Vasconcellos<br>
+Link para o curso: https://www.udemy.com/course/git-e-github-para-iniciantes/
+
 ## Configurações Globais
 
 ```
