@@ -57,3 +57,18 @@ git reset --hard(commit) number-commit
 git remote add origin link_do_repositorio
 git push -u origin master
 ```
+
+## Clonando repositório
+
+```
+git clone https://github.com/AlanDeveloper/GIT-Course git-clone
+```
+
+## Branchs
+
+```
+git branch
+git checkout -b test (Criar um branch)
+git checkout master (Mudar de branch)
+git branch -D test (Deletar um branch)
+```
