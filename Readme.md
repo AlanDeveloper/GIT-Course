@@ -1,4 +1,4 @@
-#Configurações Globais
+- Configurações Globais
 
 git config --global user.name
 git config --global user.email
@@ -34,6 +34,8 @@ git reset HEAD Readme.md(state)
 git reset --soft(commit) number-commit
 git reset --mixed(commit) number-commit
 git reset --hard(commit) number-commit
+
+#### usar "git push --force" para o hard reset
 
 #Repositório remoto
 
